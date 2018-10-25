@@ -1,0 +1,47 @@
+body{
+    background-image:url("https://www.toptal.com/designers/subtlepatterns/patterns/congruent_pentagon.png");
+}
+
+.crystalsCollector{
+    background-color: orangered;
+    margin-right:86%;
+    padding:2px;
+    color:white;
+}
+
+.gameInstructions{
+    background-color:tan;
+    color:green;
+    margin-right:75%;
+    padding-bottom:5%;
+}
+#targetNumber{
+    width:250px;
+    background-color:green;
+    margin-right:86%;
+    margin-top:10px;
+    padding-bottom:3%;
+    color:white;
+    font-size:40px;
+}
+
+.wins-losses{
+    background-color: teal;
+    color:white;
+    font-size:30px;
+    margin-right:80%;
+}
+
+#score{
+    background-color:pink;
+    margin-right:75%;
+}
+
+.scoretext{
+    font-size:30px;
+}
+    
+
+
+
+
